@@ -1,3 +1,4 @@
+//deletion of 1st element from array 
 #include <iostream>
 #include <vector>
 using namespace std ;
